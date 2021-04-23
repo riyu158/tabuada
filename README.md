@@ -1,1 +1,1 @@
-https://riyu158.github.io/tabuada/
+https://riyu158.github.io/tabuada/modelo.html
