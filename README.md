@@ -1,2 +1,1 @@
-# tabuada
-tabuada de 0 a 10
+https://riyu158.github.io/tabuada/
